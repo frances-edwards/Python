@@ -1,2 +1,2 @@
 # Python
-Python scripts used to analyse images/data
+Python scripts used to perform measures on images
